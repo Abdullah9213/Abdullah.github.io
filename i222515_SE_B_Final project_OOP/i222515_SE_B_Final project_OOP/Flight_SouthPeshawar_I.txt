@@ -1,0 +1,4 @@
+PAK-241 South_Peshawar London 06:00 16:00 NAFS-321 50 10 10 0 0
+PAK-242 South_Peshawar Dubai 10:00 13:00 NAFS-322 50 10 3 0 0
+PAK-243 South_Peshawar Toronto 14:00 05:00 NAFS-323 50 10 15 0 0
+PAK-243 South_Peshawar Toronto 14:00 05:00 NAFS-323 50 10 15 0 0

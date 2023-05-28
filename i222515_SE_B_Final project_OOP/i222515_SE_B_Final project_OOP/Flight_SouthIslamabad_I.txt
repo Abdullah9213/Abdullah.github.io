@@ -1,0 +1,5 @@
+PAK-206 South_Islamabad Paris 08:00 14:30 NAFS-096 50 10 6 30 0
+PAK-207 South_Islamabad New_York 07:00 13:30 NAFS-097 50 10 6 30 0
+PAK-208 South_Islamabad Cairo 08:00 13:00 NAFS-098 50 10 5 0 0
+PAK-209 South_Islamabad Riyadh 11:00 15:30 NAFS-099 50 10 4 30 0
+PAK-210 South_Islamabad Zurich 09:00 14:30 NAFS-100 50 10 5 30 0

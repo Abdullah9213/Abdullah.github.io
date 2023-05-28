@@ -1,0 +1,5 @@
+PAK-231 South_Lahore Toronto 09:00 17:30 NAFS-046 50 10 8 30 0
+PAK-232 South_Lahore London 13:00 18:30 NAFS-047 50 10 5 30 0
+PAK-233 South_Lahore Tokyo 14:00 22:00 NAFS-048 50 10 8 0 0
+PAK-234 South_Lahore Frankfurt 10:00 16:00 NAFS-049 50 10 6 0 0
+PAK-235 South_Lahore Amsterdam 14:00 20:30 NAFS-050 50 10 6 30 0

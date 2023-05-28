@@ -1,0 +1,3 @@
+PAK-211 South_Karachi London 06:00 17:00 NAFS-006 50 10 11 0 0
+PAK-212 South_Karachi Dubai 10:00 13:00 NAFS-007 50 10 3 0 0
+PAK-215 South_Karachi Beijing 22:00 06:00 NAFS-010 50 10 8 0 0

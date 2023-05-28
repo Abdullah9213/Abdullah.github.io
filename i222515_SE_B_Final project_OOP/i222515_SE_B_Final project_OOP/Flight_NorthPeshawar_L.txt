@@ -1,0 +1,4 @@
+PAK-101 North_Peshawar South_Lahore 08:00 09:00 NAFS-071 50 10 1 0 0
+PAK-102 North_Peshawar South_Quetta 10:00 12:00 NAFS-072 50 10 2 0 0
+PAK-103 North_Peshawar South_Peshawar 12:00 13:40 NAFS-073 25 5 1 40 1
+PAK-104 North_Peshawar South_Karachi 22:00 23:20 NAFS-074 50 10 2 20 0

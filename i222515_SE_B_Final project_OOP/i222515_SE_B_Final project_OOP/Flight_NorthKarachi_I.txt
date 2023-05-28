@@ -1,0 +1,4 @@
+PAK-101 North_Karachi Jeddah 08:00 09:00 NAFS-071 50 10 1 0 0
+PAK-102 North_Karachi New_York 10:00 12:00 NAFS-072 50 10 2 0 0
+PAK-103 North_Karachi Paris 12:00 13:40 NAFS-073 50 10 1 40 0
+PAK-104 North_Karachi Aukland 22:00 23:20 NAFS-074 50 10 2 20 0

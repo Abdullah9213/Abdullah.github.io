@@ -1,0 +1,2 @@
+PAK-071 North_Lahore South_Karachi 08:00 09:30 NAFS-051 30 5 1 30 0
+PAK-072 North_Lahore South_Islamabad 10:00 1:00 NAFS-052 20 6 1 0 0

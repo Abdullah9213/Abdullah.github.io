@@ -1,0 +1,4 @@
+PAK-221 North_Karachi South_Lahore 08:00 09:00 NAFS-011 50 10 1 0 0
+PAK-222 North_Karachi South_Quetta 10:00 11:30 NAFS-012 50 10 1 30 0
+PAK-223 North_Karachi South_Peshawar 12:00 13:30 NAFS-013 50 10 1 30 0
+PAK-224 North_Karachi South_Islamabad 14:00 16:00 NAFS-014 50 10 2 0 0

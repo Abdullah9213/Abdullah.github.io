@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Header.h(317,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Header.h(331,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Header.h(332,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Source.cpp(1240,3): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Source.cpp(1529,4): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Source.cpp(1897,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Source.cpp(2093,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Source.cpp(2344,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Source.cpp(2434,15): warning C4101: 's5': unreferenced local variable
+C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\Recovery_i222515_SE_B_Final project_OOP\Header.h(171): warning C4715: 'compare_dates': not all control paths return a value
+  Recovery_i222515_SE_B_Final project_OOP.vcxproj -> C:\Users\Cp9-30\source\repos\i222515_SE_B_Final project_OOP\x64\Debug\Recovery_i222515_SE_B_Final project_OOP.exe

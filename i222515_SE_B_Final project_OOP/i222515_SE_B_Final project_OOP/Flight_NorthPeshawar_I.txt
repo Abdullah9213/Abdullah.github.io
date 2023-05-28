@@ -1,0 +1,4 @@
+PAK-246 North_Peshawar Bangkok 10:00 16:30 NAFS-326 50 10 6 30 0
+PAK-247 North_Peshawar Kuala_Lumpur 11:00 17:30 NAFS-327 50 10 6 30 0
+PAK-248 North_Peshawar Hong_Kong 12:00 18:30 NAFS-328 50 10 6 30 0
+PAK-250 North_Peshawar Singapore 12:00 18:30 NAFS-330 50 10 6 30 0

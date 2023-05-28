@@ -1,0 +1,9 @@
+PAK-072 North_Lahore South_Islamabad 10:00 1:00 NAFS-052 50 10 1 0 0
+PAK-071 North_Lahore South_Karachi 08:00 09:30 NAFS-051 30 5 1 30 0
+PAK-072 North_Lahore South_Islamabad 10:00 1:00 NAFS-052 20 6 1 0 0
+PAK-073 North_Lahore South_Peshawar 12:00 13:00 NAFS-053 9 3 1 0 1
+PAK-073 North_Lahore South_Peshawar 12:00 13:00 NAFS-053 9 3 1 0 1
+PAK-071 North_Lahore South_Karachi 08:00 09:30 NAFS-051 30 5 1 30 0
+PAK-072 North_Lahore South_Islamabad 10:00 1:00 NAFS-052 20 6 1 0 0
+PAK-073 North_Lahore South_Peshawar 12:00 13:00 NAFS-053 9 3 1 0 1
+PAK-073 North_Lahore South_Peshawar 12:00 13:00 NAFS-053 9 3 1 0 1

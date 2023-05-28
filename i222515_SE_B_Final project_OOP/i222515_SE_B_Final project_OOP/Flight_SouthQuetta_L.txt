@@ -1,0 +1,4 @@
+PAK-041 South_Quetta South_Lahore 08:00 09:30 NAFS-021 50 10 1 30 0
+PAK-042 South_Quetta South_Islamabad 10:00 1:50 NAFS-022 50 10 1 50 0
+PAK-043 South_Quetta South_Peshawar 12:00 13:35 NAFS-023 50 10 1 35 0
+PAK-044 South_Quetta South_Karachi 21:00 22:20 NAFS-024 50 10 1 20 0

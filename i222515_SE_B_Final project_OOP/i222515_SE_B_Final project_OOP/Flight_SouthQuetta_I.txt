@@ -1,0 +1,3 @@
+PAK-221 South_Quetta London 06:00 19:00 NAFS-026 50 10 13 0 0
+PAK-222 South_Quetta Dubai 10:00 13:00 NAFS-027 50 10 3 0 0
+PAK-225 South_Quetta Beijing 22:00 07:00 NAFS-030 50 10 9 0 0

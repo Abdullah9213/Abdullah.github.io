@@ -1,0 +1,4 @@
+PAK-001 South_Islamabad South_Lahore 08:00 09:00 NAFS-091 50 10 1 0 0
+PAK-002 South_Islamabad South_Quetta 10:00 11:45 NAFS-092 50 10 1 45 0
+PAK-003 South_Islamabad South_Peshawar 12:00 13:00 NAFS-093 50 10 1 0 0
+PAK-004 South_Islamabad South_Karachi 22:00 1:00 NAFS-094 50 10 2 0 0

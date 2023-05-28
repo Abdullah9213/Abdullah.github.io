@@ -1,0 +1,5 @@
+PAK-226 North_Quetta Moscow 11:00 19:30 NAFS-036 50 10 8 30 0
+PAK-227 North_Quetta Jeddah 09:00 13:30 NAFS-037 50 10 4 30 0
+PAK-228 North_Quetta Istanbul 09:00 14:30 NAFS-038 50 10 5 30 0
+PAK-229 North_Quetta Doha 07:00 10:00 NAFS-0239 50 10 3 0 0
+PAK-230 North_Quetta Abu_Dhabi 08:00 11:30 NAFS-040 50 10 3 30 0
