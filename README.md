@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, JS, React native, OOP & Data Structures and Algoorithms**
 
-- 📫 How to reach me **abdullah.ghaffar2562gmail.com & i222515@nu.edu.pk**
+- 📫 How to reach me **abdullah.ghaffar256gmail.com & i222515@nu.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
